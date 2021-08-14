@@ -1,2 +1,2 @@
-# Survival-GIS
+# Survival GIS
 Using GIS for Personal Emergency Preparedness
