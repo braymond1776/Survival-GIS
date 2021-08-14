@@ -10,12 +10,11 @@ This workshop is for those that are interested in using GIS to better understand
 
 ### Required Software: 
 
-**QGIS:** QGIS is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.<br><br>
+ - **QGIS:** QGIS is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, Mac OSX, Windows and Android and supports numerous vector, raster, and database formats and functionalities.<br>
 ***Download QGIS:*** https://www.qgis.org/en/site/forusers/download.html
 
-**QuickMapServices QGIS Plugin :** The QuickMapServices is a Plugin for QGIS that makes adding and working with with web-based basemaps inside QGIS easy.<br><br>
-***Download QGIS:*** https://www.qgis.org/en/site/forusers/download.htmlhttps://nextgis.com/blog/quickmapservices/
-
+- **QuickMapServices QGIS Plugin :** The QuickMapServices is a Plugin for QGIS that makes adding and working with with web-based basemaps inside QGIS easy.<br>
+***Learn More:*** https://nextgis.com/blog/quickmapservices/
 
 #### Attributions
 <div>Icons made by <a href="" title="mangsaabguru">mangsaabguru</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
